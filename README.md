@@ -1,4 +1,4 @@
-``
+```
 
 # practica32.md
 use practica32
