@@ -1,3 +1,5 @@
+``
+
 # practica32.md
 use practica32
 create table practica32 (
@@ -1009,3 +1011,5 @@ insert into practica32 (NombreComun, NombreCientifico, Familia, Pais, Precio) va
 insert into practica32 (NombreComun, NombreCientifico, Familia, Pais, Precio) values ('Kauai Bottlebrush', 'Metrosideros waialealae (Rock) Rock var. waialealae', 'Myrtaceae', 'Andorra', '$0.03');
 
 select * from practica32;
+
+```
